@@ -1,1 +1,8 @@
+# Site details
+title: Gabriel's Sysadmin Shenanigans
+twitter_username: usrGabriel
+github_username: usrGabriel
+
+# Build settings
 remote_theme: brianmaierjr/long-haul
+permalink: /:year/:month/:day/:title/
