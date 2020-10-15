@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Gabriel B."
   avatar : "/assets/images/elogo.jpg"
-  bio    : "Canadian sysadmin/junior DevOps engineer. Aiming to encourage the embrace of mistakes to become better at learning, from which this blog's name got its inspiration. Enjoy your stay!"
+  bio    : "Canadian sysadmin/junior DevOps engineer sharing some tidbits on the web. Maple syrup may be included." 
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
