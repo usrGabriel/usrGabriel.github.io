@@ -1,6 +1,6 @@
 # erratum.sh
 
-This will be the future blog platform to share some snippets of occasional knowledge that my brain can spew out to the world.
+![preview](./assets/images/readme/blog-preview.png)
 
-In the meantime that it is completed, have this picture of a cat:
-![cat](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg)
+My personal blog covering technical articles, thoughts on the industry, career advice, and more.
+The focus is on the theme of embracing mistakes and learning from them to become better.
