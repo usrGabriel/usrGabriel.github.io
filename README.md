@@ -1,6 +1,6 @@
-# what.computer
+# coffeepowered.sh
 
-![preview](./assets/images/readme/blog-preview.png)
+![preview](./assets/img/readme/blog-preview.png)
 
 My personal blog covering technical articles, thoughts on the industry, career advice, and more.
-Visit here: <https://what.computer>
+Visit here: <https://coffeepowered.sh>
