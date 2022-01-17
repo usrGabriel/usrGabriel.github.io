@@ -24,6 +24,9 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      
+      - name: Installing dependencies
+        run: bundle install
 
       - name: Deploy
         run: bash tools/deploy.sh
