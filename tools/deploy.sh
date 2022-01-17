@@ -3,6 +3,7 @@
 # Build, test and then deploy the site content to 'origin/<pages_branch>'
 #
 # Requirements: html-proofer, jekyll
+#
 # Usage: See help information
 
 set -eu
