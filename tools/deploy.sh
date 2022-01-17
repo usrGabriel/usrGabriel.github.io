@@ -2,7 +2,7 @@
 #
 # Build, test and then deploy the site content to 'origin/<pages_branch>'
 #
-# Requirement: html-proofer, jekyll
+# Requirements: html-proofer, jekyll
 #
 # Usage: See help information
 
