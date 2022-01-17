@@ -2,7 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 README_chirpy.md
-Gemfile.lock
 .jekyll-cache
 **/.DS_Store
 ._**
