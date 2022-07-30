@@ -23,10 +23,10 @@ timezone: America/Toronto
 
 title: Coffee Powered ⚡️
 
-tagline: Musings about tech and anything else of interest. Fueled by caffeine.  # it will display as the sub-title
+tagline: A place to drink your favorite coffee and learn technology.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Coffee-fueled technology and variety blog by a canadian system administrator.
+  A place to drink your favorite coffee and learn technology.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://coffeepowered.sh'
@@ -35,17 +35,16 @@ github:
   username: usrGabriel
 
 twitter:
-  username: usrGabriel
+  username: CoffeePwrd
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Gabriel Blais
+  name: Coffee Powered
   #email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/usrGabriel
-    - https://github.com/usrGabriel
+    - https://twitter.com/CoffeePwrd
 
 #google_site_verification: # fill in your verification string
 

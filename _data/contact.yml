@@ -1,19 +1,22 @@
 #  The contact options.
-
--
-  type: github
-  icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
--
-  #type: email
-  #icon: 'fas fa-envelope'
-  #noblank: true            # open link in current tab
 #-
+#  type: youtube
+#  icon: 'fab fa-youtube'
+#  url: https://www.youtube.com/channel/UCyUcjpsQFeEMnw8N2rnJOtg
+#-
+#  type: twitch
+#  icon: 'fab fa-twitch'
+#  url: https://www.twitch.tv/coffeepwrd
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+#-
+#  type: github
+#  icon: 'fab fa-github'
 #-
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
@@ -24,8 +27,12 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+# -
+  #type: email
+  #icon: 'fas fa-envelope'
+  #noblank: true            # open link in current tab
+#-
