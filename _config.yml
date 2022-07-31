@@ -82,7 +82,7 @@ img_cdn:
 avatar: "/assets/img/coffee-blackbg-round-250px.png"
 
 # boolean type, the global switch for ToC in posts.
-toc: false
+toc: true
 
 #comments:
 #  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
