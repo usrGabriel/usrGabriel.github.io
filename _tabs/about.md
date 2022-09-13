@@ -14,4 +14,6 @@ Note that I may not post very often, but will do whenever time/inspiration is av
 
 ## About the author
 
-My name is Gabriel. I am powered by the drink closest to my reach, which is often coffee (making this blog's name obvious). I fumble on my keyboard until it somehow produces something that makes sense and I work as a Linux/Cloud sysadmin in Canada.
+My name is Gabriel. I am fueled by the drink closest to my reach, which often happens to be coffee (making this blog's name an easy choice!). I fumble on my keyboard until it produces something that makes sense.
+
+I also work in the Rancher Support team at [SUSE](https://www.suse.com/){:target="_blank" rel="noopener"} and I am based remotely in Canada. With that said, I want to make clear that any opinions expressed on this blog are my own and in no way represent those of my employer.
